@@ -3,7 +3,8 @@ numpy
 seaborn
 matplotlib
 seaborn
-sickit-learn
+scikit-learn==1.5.2
 catboost
 xgboost
+flask
 -e.
